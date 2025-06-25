@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Banco {
     public static Conta criarConta(Scanner scanner) {
         System.out.println("Informe o número da conta:");
         int numero = scanner.nextInt();
